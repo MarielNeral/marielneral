@@ -34,6 +34,6 @@ The website is designed to provide a visually appealing and engaging showcase of
 
 # Credits
 
-Template from https://www.w3schools.com/
-Modified by Mariel Neral
-Contents/Designs by Mariel Neral
+- Template from https://www.w3schools.com/
+- Modified by Mariel Neral
+- Contents/Designs by Mariel Neral
