@@ -20,6 +20,8 @@ The website is designed to provide a visually appealing and engaging showcase of
 
 - HTML
 - CSS
+- Brackets
+- Github Desktop
 
 # Credits
 
